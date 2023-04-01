@@ -1,0 +1,38 @@
+dir
+dir
+dir
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/3rd_Prototype_-_Dancefloor_[NCS_Release].mp3
+cvlc /home/piyush/Music/library/2015s/Imran_Khan_-_Knightridah_(Official_Music_Video)(256kbps).mp3
+cvlc /home/piyush/Music/library/2015s/Imran_Khan_-_Knightridah_(Official_Music_Video)(256kbps).mp3
+cvlc /home/piyush/Music/library/2015s/Imran_Khan_-_Knightridah_(Official_Music_Video)(256kbps).mp3
+cvlc /home/piyush/Music/library/2015s/[Indie_Dance]_-_PYLOT_-_A_Race_Against_Time_[Monstercat_Release].mp3
+cvlc /home/piyush/Music/library/2015s/[Indie_Dance]_-_PYLOT_-_A_Race_Against_Time_[Monstercat_Release].mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10223
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10338
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10562
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10703
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10842
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10899
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 10977
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 11134
+cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
+kill 11262

@@ -36,3 +36,6 @@ cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
 kill 11134
 cvlc /home/piyush/Music/library/2015s/Jaeger_-_Noise.mp3
 kill 11262
+aria2/aria2c.exe-x8  -k100M  https://ia801207.us.archive.org/zip_dir.php?path=/19/items/ItnaBadaJulmNaKariye.zip&formats=VBR%20MP3,ARCHIVE%20BITTORRENT,METADATA,ITEM%20TILE
+download/aria2c.exe-x8  -k100M  https://ia801207.us.archive.org/zip_dir.php?path=/19/items/ItnaBadaJulmNaKariye.zip&formats=VBR%20MP3,ARCHIVE%20BITTORRENT,METADATA,ITEM%20TILE
+/home/piyush/Desktop/SystemControl/download_server/download/aria2c.exe-x8  -k100M  https://cdn.pagalworld.us/songs/new/320/Aankhyan%20Aali%20Mauser%20-%20Amit%20dhull.mp3
